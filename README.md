@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ruby On Rails E-commerce API
 # Table of Contents
 - [Introduction](#introduction)
@@ -227,3 +228,6 @@ and you may let me know opening an issue.
 - Narrow down the routes available, I rely on resources: but I have some of the resource methods not used
 - Dockerize this application
 
+=======
+# E-CommercePlus
+>>>>>>> 5331dba53109e102d76b0a6930cf4079430f2533
