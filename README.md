@@ -1,4 +1,4 @@
-# Ruby On Rails E-commerce API
+# Ruby On Rails E-commerce API.
 # Table of Contents
 - [Introduction](#introduction)
 - [Full-stack Applications](#full-stack-applications)
